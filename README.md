@@ -28,10 +28,9 @@ This Github provides a getting started guide and other working details for the N
 ### Repository Contents:
   - [/Design Data](https://github.com/sbcshop/NFC_HAT_Hardware/tree/main/Design%20Data) - This directory contains Schematic, Top and Bottom View
   - [/Mechanical Data](https://github.com/sbcshop/NFC_HAT_Hardware/tree/main/Mechanical%20Data) - This directory contains Dimension, 3D and STEP files
-  - [ReadPi RFID Getting Started](https://github.com/sbcshop/Pico_NFC_Expansion_Software) - This repo contains ReadPi RFID Getting Started and Sample Codes.
+  - [NFC HAT Getting Started](https://github.com/sbcshop/NFC_HAT_Software) - This repo contains NFC HAT Getting Started guide and Sample Codes.
 
 ## Related Products
-   * [NFC HAT](https://github.com/sbcshop/NFC_HAT_Software)
    * [ReadPi NFC](https://shop.sb-components.co.uk/products/readpi-an-rfid-nfc-reader-powered-with-raspberry-pi-pico-w?variant=40478483087443) - ReadPi with 13.56MHz NFC reader/writer powered by Raspberry Pi Pico W
    * [Raspberry Pi Pico RFID expansion](https://shop.sb-components.co.uk/products/raspberry-pi-pico-rfid-expansion) - RFID expansion board with support to incorporate Pico/Pico W 
    * [RFID_Breakout](https://shop.sb-components.co.uk/products/rfid-breakout?_pos=5&_sid=fac219786&_ss=r) - RFID breakout for standalone testing and freedom to choose microcontroller as per requirement.
