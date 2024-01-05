@@ -3,7 +3,7 @@
 <img src="https://github.com/sbcshop/NFC_HAT_Software/blob/main/images/nfc%20hat.png">
 
 Pi NFC HAT 13.56 MHz frequency-based NFC Reader/Writer. 
-This Github provides a getting started guide and other working details for the NFC Expansion.
+This Github repository contains the hardware design files for the NFC HAT.
 
 ### Features:
 - Onboard 13.56MHz NFC read/write Module
